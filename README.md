@@ -1,3 +1,11 @@
+About this fork
+============
+
+PyBitmessage is a little outdated, and the code can't compile well in newer systems. Because the code is a little mess, people are not trying to improve the software anymore. So, I will try to update de code using some tools like 2to3 using this tutorial: https://vallme2003.medium.com/how-to-use-python-2to3-converter-with-pycharm-ide-7114174995aa and doing everything else manually.
+
+You are welcome to help me. Message me in BM-NBJ74QmJCct5i9F8aHtQBdNGcv8QGYDY .
+
+
 PyBitmessage
 ============
 
