@@ -5,7 +5,12 @@ PyBitmessage is a little outdated, and the code can't compile well in newer syst
 
 I've changed the version from 0.6 to 0.7 basically to show that the code is being/has been (in the time you read this) updated, but it is basically the same app. Today 26/11 I've already used the tool 2to3 to update all files. Now, I will start testing compiling again the code as is and fixing any problem; also, I will try to handle the issues with dynamically typing using python 3.5 and above type-hints, and see what can I do about the outdated QT3 libraries. 
 
-You are welcome to help me (seriously, I'm not very sure about what I am doing. I IMPLORE YOU). Message me in BM-NBJ74QmJCct5i9F8aHtQBdNGcv8QGYDY . I am also in the bitmessage development chan, BM-2cWy7cvHoq3f1rYMerRJp8PT653jjSuEdY . See you all!
+At the moment, I'm using PyCharm and Python 2to3 as tools. If you know something better or something that can make my life easier, please send me a message.
+
+You are welcome to help me (seriously, I'm not very sure about what I am doing. I IMPLORE YOU!!!). Message me in BM-NBJ74QmJCct5i9F8aHtQBdNGcv8QGYDY . I am also in the bitmessage development chan, BM-2cWy7cvHoq3f1rYMerRJp8PT653jjSuEdY . See you all!
+
+
+Everything from this point is from the old repository.
 
 
 PyBitmessage
