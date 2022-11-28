@@ -7,7 +7,9 @@ I've changed the version from 0.6 to 0.7 basically to show that the code is bein
 
 At the moment, I'm using PyCharm and Python 2to3 as tools. If you know something better or something that can make my life easier, please send me a message.
 
-You are welcome to help me (seriously, I'm not very sure about what I am doing. I IMPLORE YOU!!!). Message me in BM-NBJ74QmJCct5i9F8aHtQBdNGcv8QGYDY . I am also in the bitmessage development chan, BM-2cWy7cvHoq3f1rYMerRJp8PT653jjSuEdY . See you all!
+You are welcome to help me (seriously, I'm not very sure about what I am doing. I IMPLORE YOU!!!). Message me in BM-NBJ74QmJCct5i9F8aHtQBdNGcv8QGYDY . Our fork development channel is BM-2cVp51viwgf23cC6dt4jr9pSw1wfmHAaY1 , the Name/Passphrase is "py3bitmessage" (without the ""). 
+
+I am also in the official bitmessage development chan, BM-2cWy7cvHoq3f1rYMerRJp8PT653jjSuEdY . See you all!
 
 
 Everything from this point is from the old repository.
